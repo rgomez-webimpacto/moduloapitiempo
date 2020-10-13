@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>moduloapitiempo</name>
+	<displayName><![CDATA[Modulo Api Tiempo]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Este módulo ataca una API de tiempo para mostrarla en el NAV de nuestra página.]]></description>
+	<author><![CDATA[Rubén Gómez Romero-Nieva]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
